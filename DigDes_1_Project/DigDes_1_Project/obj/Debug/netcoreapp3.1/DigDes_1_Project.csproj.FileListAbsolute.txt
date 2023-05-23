@@ -1,0 +1,14 @@
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\bin\Debug\netcoreapp3.1\DigDes_1_Project.exe
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\bin\Debug\netcoreapp3.1\DigDes_1_Project.deps.json
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\bin\Debug\netcoreapp3.1\DigDes_1_Project.runtimeconfig.json
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\bin\Debug\netcoreapp3.1\DigDes_1_Project.runtimeconfig.dev.json
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\bin\Debug\netcoreapp3.1\DigDes_1_Project.dll
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\bin\Debug\netcoreapp3.1\DigDes_1_Project.pdb
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.csprojAssemblyReference.cache
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.csproj.CoreCompileInputs.cache
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.AssemblyInfoInputs.cache
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.AssemblyInfo.cs
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.dll
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.pdb
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.genruntimeconfig.cache
+C:\Users\fffff\source\repos\DigDes_1_Project\DigDes_1_Project\obj\Debug\netcoreapp3.1\DigDes_1_Project.csproj.CopyComplete

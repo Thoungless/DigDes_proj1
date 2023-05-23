@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigDes_1_Project", "DigDes_1_Project\DigDes_1_Project.csproj", "{86F114AA-1E35-4458-A282-CB6D1A1E4334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F114AA-1E35-4458-A282-CB6D1A1E4334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F114AA-1E35-4458-A282-CB6D1A1E4334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F114AA-1E35-4458-A282-CB6D1A1E4334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F114AA-1E35-4458-A282-CB6D1A1E4334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC643148-9059-498E-AAF2-32815A1B1A2F}
+	EndGlobalSection
+EndGlobal
